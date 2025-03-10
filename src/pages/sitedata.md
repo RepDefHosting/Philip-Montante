@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Client Name
-jobTitle: Client's Job Title
-location: City, State, Country
+name: Philip Montante
+jobTitle: Lawyer
+location: Buffalo, NY
 profileImage:
   src: /img/default-profile-male.png
-  alt: Client's headshot
-siteUrl: https://url.com
+  alt: Judge Philip Montante
+siteUrl: https://www.aboutphilipmontante.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/philip-montante-89b946337
     label: Visit
     show: true
   pinterest:
