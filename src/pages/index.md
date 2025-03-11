@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Client's Subtitle
 pageSlug: /
 featuredImage:
-  src: /img/businesshero2.png
+  src: /img/lawyerhero1.png
   alt: Judge Philip Montante
   caption: null
 header: Client Name
