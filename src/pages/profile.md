@@ -12,7 +12,7 @@ published: true
 schemaType: ProfilePage
 header: Philip Montante
 featuredImage:
-  src: /img/businesshero2.png
+  src: /img/lawyerhero1.png
   alt: Hero Image
   caption: null
 connectWithMe: Connect with me
